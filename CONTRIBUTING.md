@@ -4,7 +4,7 @@ Thank you for your interest in contributing to this project!  Read on for inform
 
 ## Bug Reports
 
-Bug reports should be submitted via the [issues tracker](/issues) following these steps:
+Bug reports should be submitted via the Issues tab following these steps:
 1. First, check whether there already is an open issue for your bug.
 2. If an open issue for your bug doesn't already exist, then submit an issue.
 3. Please include enough detail to reproduce the issue.
@@ -12,7 +12,7 @@ Bug reports should be submitted via the [issues tracker](/issues) following thes
 ## Feature Requests
 
 Requests for new functionality or enhancements to existing functionality can also be submitted via 
-the [issue tracker](/issues).  Just like with bug reports,
+the Issues tab.  Just like with bug reports,
 please verify that there isn't already an existing issue covering the same request.
 
 ## Bug Fixes
