@@ -8,6 +8,7 @@ Use `Fixes #XXXX` or `Closes #XXXX` to autoclose an associated issue.
 <!--- What types of changes does your code introduce? Put an `x` in all the boxes that apply: -->
 - [ ] Bug fix (non-breaking change which fixes an issue)
 - [ ] New feature (non-breaking change which adds functionality)
+- [ ] Improvements to existing code, such as refactoring or optimizations (non-breaking)
 - [ ] Breaking change (fix or feature that would cause existing functionality to change)
 - [ ] I have read the [**CONTRIBUTING**](https://github.com/cicirello/.github/blob/main/CONTRIBUTING.md) document.
 - [ ] My code follows the code style of this project.
@@ -15,4 +16,3 @@ Use `Fixes #XXXX` or `Closes #XXXX` to autoclose an associated issue.
 - [ ] I have updated the documentation accordingly.
 - [ ] I have added tests to cover my changes.
 - [ ] All new and existing tests passed.
-- [ ] I edited the Unreleased section of the CHANGELOG.md with any relevant bullets. 
