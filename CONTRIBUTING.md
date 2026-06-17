@@ -8,12 +8,13 @@ Bug reports should be submitted via the Issues tab following these steps:
 1. First, check whether there already is an open issue for your bug.
 2. If an open issue for your bug doesn't already exist, then submit an issue.
 3. Please include enough detail to reproduce the issue.
+4. Please choose the relevant issue template when prompted.
 
 ## Feature Requests
 
 Requests for new functionality or enhancements to existing functionality can also be submitted via 
-the Issues tab.  Just like with bug reports,
-please verify that there isn't already an existing issue covering the same request.
+the Issues tab. Just like with bug reports,
+please verify that there isn't already an existing issue covering the same request. Please choose the relevant issue template when prompted.
 
 ## Requirements for All Pull Requests
 
@@ -21,6 +22,8 @@ The sections below have more specific guidelines specific to bug fixes and addin
 1. Only maintainers are allowed to touch configuration files (e.g., pom.xml for Java projects). If your pull request changes any configuration files, it will be closed.
 2. Only maintainers are allowed to touch GitHub Actions workflows, dependabot configuration, etc. If your pull request changes any such files, it will be closed.
 3. No drive-by generative AI pull requests. First-time contributers must not use generative AI tools in their contribution.
+4. You must use the pull request template, and you must complete the relevant parts of the checklist in that template.
+5. Your pull request must be associated with an open issue, and you must be assigned to that issue. You can volunteer and request to be assigned by commenting on the issue.
 
 ## Bug Fixes
 
