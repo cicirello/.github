@@ -4,9 +4,13 @@
 ## Closing Issues
 Use `Fixes #XXXX` or `Closes #XXXX` to autoclose an associated issue.
 
-## Types of changes
-<!--- What types of changes does your code introduce? Put an `x` in all the boxes that apply: -->
+## Pull Request Requirements 
+If you are unable to check everything in this list, your pull request will be closed:
 - [ ] I have read the [**CONTRIBUTING**](https://github.com/cicirello/.github/blob/main/CONTRIBUTING.md) document.
+- [ ] My pull request has a corresponding Issue and I linked to it above in the [Closing Issues](#closing-issues) section.
+
+## Types of Changes
+<!--- What types of changes does your code introduce? Put an `x` in all the boxes that apply: -->
 - [ ] Bug fix (non-breaking change which fixes an issue)
 - [ ] New feature (non-breaking change which adds functionality)
 - [ ] Improvements to existing code, such as refactoring or optimizations (non-breaking)
